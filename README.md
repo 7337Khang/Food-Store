@@ -53,7 +53,7 @@ NodeJS and ReatJS are two platforms with strong development support. Includes op
 
 MIT License
 
-Copyright (c) [2023] [LE HOANG TUAN]
+Copyright (c) [2024] [KHANG_MAI & MINH_TRAN]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
