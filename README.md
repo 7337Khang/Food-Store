@@ -10,7 +10,7 @@
 
 # Food Store
 
-This is a full-stack ecommerce project with reptile products from many countries
+This is a full-stack website project with foods business
 
 ## Installation
 
