@@ -104,7 +104,7 @@ function HomeScreen() {
   return (
     <div style={{ paddingTop: "20px" }}>
       <Helmet>
-        <title>Khang&Minh</title>
+        <title>Khang&Minh Food Store</title>
       </Helmet>
 
       <div>

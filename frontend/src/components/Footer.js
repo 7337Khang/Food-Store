@@ -11,7 +11,7 @@ function Footer() {
       <Row>
         <Col md="4" className="footer-copyright">
           <h3 className="text-primary">
-            Designed and Developed by Le Hoang Tuan
+            Designed and Developed by Khang and Minh
           </h3>
         </Col>
         <Col md="4" className="footer-copywright">
@@ -21,7 +21,7 @@ function Footer() {
           <ul className="footer-icons list-unstyled">
             <li className="social-icons">
               <a
-                href="https://www.facebook.com/TuanBlackU"
+                href="https://www.facebook.com/profile.php?id=61559204271787"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -30,16 +30,7 @@ function Footer() {
               </a>
             </li>
 
-            <li className="social-icons">
-              <a
-                href="https://www.tiktok.com/@tuanblack69"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <i className="fab fa-tiktok fa-2x" />
-              </a>
-            </li>
+            
           </ul>
         </Col>
       </Row>

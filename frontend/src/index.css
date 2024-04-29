@@ -10,7 +10,7 @@
       rgba(159, 224, 229, 0.8),
       rgba(196, 180, 239, 0.9)
     ),
-    url("https://images.pexels.com/photos/7722760/pexels-photo-7722760.jpeg");
+    url("https://cleverads.vn/blog/wp-content/uploads/2023/10/thi-truong-healthy-food-1.jpg");
   background-size: cover;
   background-position: left;
   position: relative;
@@ -296,7 +296,7 @@ a.nav-link:hover {
 .dropdown-menu {
   background-image: linear-gradient(
     261deg,
-    rgba(2, 0, 36, 1) 0%,
+    rgb(244, 232, 10) 0%,
     rgba(36, 36, 87, 1) 35%,
     rgb(7, 65, 77) 100%
   );

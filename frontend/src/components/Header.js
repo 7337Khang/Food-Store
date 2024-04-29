@@ -45,7 +45,7 @@ export default function Header() {
               className="shop-title"
               activeclassname="active-shop-title"
             >
-              <div className="fas fa-home"> Khang&Minh Food</div>
+              <div className="fas fa-home"> Khang&Minh Food Store</div>
             </NavLink>
 
             <NavLink
